@@ -8,9 +8,9 @@ For my inspiration, I chose the slit-scan visual effect. I like this technique b
 
 ### Reference Images
 
-![Slit-scan inspiration image 1](images/screenshot 1.png)
+![Slit-scan inspiration image 1](images/screenshot-1.png)
 
-![Slit-scan inspiration image 2](images/screenshot 2.png)
+![Slit-scan inspiration image 2](images/screenshot-2.png)
 
 ## Part 2: Coding Technique Exploration
 
